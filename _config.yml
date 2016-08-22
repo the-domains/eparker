@@ -1,0 +1,14 @@
+layout_spectrum: 0.02194343600422144
+typography_spectrum: 0.8026628203224391
+color:
+  brandStrength: 0.9312339429743588
+  lightness: 0.27315990161150694
+  saturation: 0.10712759220041335
+  rhythmicContrast: 0.38925133598968387
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: eparker
